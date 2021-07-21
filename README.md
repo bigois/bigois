@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Eu amo a Momozinha <3
 <!--
 **guilhermebigois/guilhermebigois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
