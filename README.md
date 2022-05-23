@@ -1,9 +1,15 @@
-<h1 align="center">Salve! 🤙 Eu sou o Bigois! 😎</h1>
+<h1 align="center">Salve! 🤙 Eu sou o Bigois!</h1>
 <div align="center">
-    <h3>
-        Desenvolvedor ADVPL/TL++ com cinco anos de experiência focados na criação de mais de 800 customizações e manutenção de fontes padrões do ERP TOTVS Protheus.
-    </h3>
-    <br>
+    <p>
+        O desenvolvedor ADVPL/TL++ mais rápido do Velho Oeste Protheus 🤠
+    </p>
+    <img src="gifs/dog-dev.webp"/>
+    <p>
+        Especialista em criação de magias e bruxarias não ensinadas em Hogwarts 🧙 para localizar e trucidar bugs do além, assim como apagar incêndios de sistema que surgem do nada e desaparecem do mesmo modo.
+    </p>
+<div>
+<h2 align="center">Contatos<h2>
+<div align="center">
     <a href="https://linkedin.com/in/guilhermebigois" target="_blank">
         <img src="badges\linkedin.svg">
     </a>
