@@ -6,7 +6,7 @@
             <img src="badges\linkedin.svg">
         </a>
         <a href="https://devforum.totvs.com.br/users/1300/guilherme-bigois" target="_blank">
-            <img width="111px" height="28px" src="badges\Prancheta 1.svg">
+            <img width="111px" height="28px" src="badges\totvs.svg">
         </a>
         <a href="https://api.whatsapp.com/send?phone=5511954226844" target="_blank">
             <img src="badges\whatsapp.svg">
