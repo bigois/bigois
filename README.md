@@ -26,8 +26,7 @@
         <img width="111px" height="28px" src="badges/e-mail.svg">
     </a>
 </div>
-<h2 align="center">Tecnologias que eu mexo (ou já mexi) 👨‍💻<h2>
-<br>
+<h2 align="center">Tecnologias que eu mexo (ou já mexi) 👨‍💻</h2>
 <div align="center">
     <details>
         <summary>Código raíz (front-end e back-end)</summary>
@@ -43,7 +42,6 @@
         <img title="Selenium" width="45px" height="45px" src="images/code/selenium.svg">
         <img title="NodeJS" width="45px" height="45px" src="images/code/nodejs.svg">
     </details>
-    <br>
     <details>
         <summary>Mobaiou (mobile)</summary>
         <img title="Android" width="40px" height="40px" src="images/mobile/android.svg">
@@ -51,7 +49,6 @@
         <img title="Xamarin" width="40px" height="40px" src="images/mobile/xamarin.svg">
         <img title="Appium" width="40px" height="40px" src="images/mobile/appium.svg">
     </details>
-    <br>
     <details>
         <summary>Onde a magia acontece (IDEs)</summary>
         <img title="VS Code" width="45px" height="45px" src="images/ide/vscode.svg">
@@ -62,7 +59,6 @@
         <img title="Arduino" width="45px" height="45px" src="images/ide/arduino.svg">
         <img title="IntelliJ" width="45px" height="45px" src="images/ide/intellij.svg">
     </details>
-    <br>
     <details>
         <summary>Coisas que o estagiário desliga sem querer (infraestrura)</summary>
         <img title="Windows" width="40px" height="40px" src="images/infra/windows.svg">
@@ -76,7 +72,6 @@
         <img title="MySQL" width="40px" height="40px" src="images/infra/mysql.svg">
         <img title="PostgreSQL" width="40px" height="40px" src="images/infra/postgresql.svg">
     </details>
-    <br>
     <details>
         <summary>Quando não é usado, tira a nossa paz (organização e agilidade)</summary>
         <img title="Git" width="40px" height="40px" src="images/agile/git.svg">
@@ -89,7 +84,6 @@
         <img title="Notion" width="40px" height="40px" src="images/agile/notion.svg">
         <img title="Zendesk" width="40px" height="40px" src="images/agile/zendesk.svg">
     </details>
-    <br>
     <details>
         <summary>Aquilo que eu não soube classificar (demais tecnologias)</summary>
         <img title="Postman" width="40px" height="40px" src="images/etc/postman.svg">
