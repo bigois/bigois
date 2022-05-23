@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="pt-br">
     <body>
-        <h1 align="center">Salve! 🤙 Eu sou o Bigois! 😎</h1>
         <div align="center">
+        <h1>Salve! 🤙 Eu sou o Bigois! 😎</h1>
         <a href="https://linkedin.com/in/guilhermebigois" target="_blank">
             <img src="badges\linkedin.svg">
         </a>
