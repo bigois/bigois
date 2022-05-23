@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-    <body align="center">
+<html lang="pt-br" align="center">
+    <body>
         <h1>Salve! 🤙 Eu sou o Bigois! 😎</h1>
         <a href="https://linkedin.com/in/guilhermebigois" target="_blank">
             <img src="badges\linkedin.svg">
