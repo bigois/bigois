@@ -8,7 +8,6 @@
         Especialista em criação de magias e bruxarias não ensinadas em Hogwarts 🧙 para localizar e trucidar bugs do além, assim como apagar incêndios de sistema que surgem do nada e desaparecem do mesmo modo.
     </p>
 </div>
-<h2 align="center">Contatos 📱</h2>
 <div align="center">
     <a href="https://linkedin.com/in/guilhermebigois" target="_blank">
         <img title="Me adiciona lá nas suas conexões 😉" src="badges\linkedin.svg">
