@@ -9,7 +9,7 @@
     </p>
 </div>
 <div align="center">
-    <a href="https://linkedin.com/in/guilhermebigois" target="_blank">
+    <a href="https://linkedin.com/in/bigois" target="_blank">
         <img title="Me adiciona lá nas suas conexões 😉" src="badges\linkedin.svg">
     </a>
     <a href="https://devforum.totvs.com.br/users/1300/guilherme-bigois" target="_blank">
