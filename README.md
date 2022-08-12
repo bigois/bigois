@@ -38,12 +38,12 @@
         <img title="HTML5" width="40px" height="40px" src="images/code/html.svg">
         <img title="CSS3" width="40px" height="40px" src="images/code/css.svg">
         <img title="JavaScript" width="40px" height="40px" src="images/code/javascript.svg">
-        <img title="PL/SQL" width="45px" height="45px" src="images/code/plsql.webp">
-        <img title="Wordpress" width="45px" height="45px" src="images/code/wordpress.svg">
-        <img title="Flask" width="45px" height="45px" src="images/code/flask.svg">
-        <img title="Selenium" width="45px" height="45px" src="images/code/selenium.svg">
-        <img title="NodeJS" width="45px" height="45px" src="images/code/nodejs.svg">
-        <img title="Apache NiFi" width="45px" height="45px" src="images/code/nifi.svg">
+        <img title="PL/SQL" width="40px" height="40px" src="images/code/plsql.webp">
+        <img title="Wordpress" width="40px" height="40px" src="images/code/wordpress.svg">
+        <img title="Flask" width="40px" height="40px" src="images/code/flask.svg">
+        <img title="Selenium" width="40px" height="40px" src="images/code/selenium.svg">
+        <img title="NodeJS" width="40px" height="40px" src="images/code/nodejs.svg">
+        <img title="Apache NiFi" width="40px" height="40px" src="images/code/nifi.svg">
     </details>
     <details>
         <summary>Mobaiou (mobile)</summary>
@@ -54,13 +54,13 @@
     </details>
     <details>
         <summary>Onde a magia acontece (IDEs)</summary>
-        <img title="VS Code" width="45px" height="45px" src="images/ide/vscode.svg">
-        <img title="PyCharm" width="45px" height="45px" src="images/ide/pycharm.svg">
-        <img title="Eclipse" width="45px" height="45px" src="images/ide/eclipse.svg">
-        <img title="Netbeans" width="45px" height="45px" src="images/ide/netbeans.svg">
-        <img title="Visual Studio" width="45px" height="45px" src="images/ide/visual-studio.svg">
-        <img title="Arduino" width="45px" height="45px" src="images/ide/arduino.svg">
-        <img title="IntelliJ" width="45px" height="45px" src="images/ide/intellij.svg">
+        <img title="VS Code" width="40px" height="40px" src="images/ide/vscode.svg">
+        <img title="PyCharm" width="40px" height="40px" src="images/ide/pycharm.svg">
+        <img title="Eclipse" width="40px" height="40px" src="images/ide/eclipse.svg">
+        <img title="Netbeans" width="40px" height="40px" src="images/ide/netbeans.svg">
+        <img title="Visual Studio" width="40px" height="40px" src="images/ide/visual-studio.svg">
+        <img title="Arduino" width="40px" height="40px" src="images/ide/arduino.svg">
+        <img title="IntelliJ" width="40px" height="40px" src="images/ide/intellij.svg">
     </details>
     <details>
         <summary>Coisas que o estagiário desliga sem querer (infraestrura)</summary>
