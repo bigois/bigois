@@ -43,6 +43,7 @@
         <img title="Flask" width="45px" height="45px" src="images/code/flask.svg">
         <img title="Selenium" width="45px" height="45px" src="images/code/selenium.svg">
         <img title="NodeJS" width="45px" height="45px" src="images/code/nodejs.svg">
+        <img title="Apache NiFi" width="45px" height="45px" src="images/code/nifi.svg">
     </details>
     <details>
         <summary>Mobaiou (mobile)</summary>
@@ -73,6 +74,7 @@
         <img title="Oracle 12c" width="40px" height="40px" src="images/infra/oracle.svg">
         <img title="MySQL" width="40px" height="40px" src="images/infra/mysql.svg">
         <img title="PostgreSQL" width="40px" height="40px" src="images/infra/postgresql.svg">
+        <img title="Terraform" width="40px" height="40px" src="images/infra/terraform.svg">
     </details>
     <details>
         <summary>Quando não é usado, tira a nossa paz (organização e agilidade)</summary>
