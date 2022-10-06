@@ -63,7 +63,7 @@
         <img title="IntelliJ" width="40px" height="40px" src="images/ide/intellij.svg">
     </details>
     <details>
-        <summary>Coisas que o estagiário desliga sem querer (infraestrura)</summary>
+        <summary>Coisas que o estagiário desliga sem querer (infraestrutura)</summary>
         <img title="Windows" width="40px" height="40px" src="images/infra/windows.svg">
         <img title="Ubuntu" width="40px" height="40px" src="images/infra/ubuntu.svg">
         <img title="Debian" width="40px" height="40px" src="images/infra/debian.svg">
