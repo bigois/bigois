@@ -87,6 +87,8 @@
         <img title="Trello" width="40px" height="40px" src="images/agile/trello.svg">
         <img title="Notion" width="40px" height="40px" src="images/agile/notion.svg">
         <img title="Zendesk" width="40px" height="40px" src="images/agile/zendesk.svg">
+        <img title="Miro" width="40px" height="40px" src="images/agile/miro.svg">
+        <img title="Draw.io" width="40px" height="40px" src="images/agile/drawio.svg">
     </details>
     <details>
         <summary>Aquilo que eu não soube classificar (demais tecnologias)</summary>
