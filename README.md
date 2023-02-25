@@ -5,7 +5,7 @@
     </p>
     <img src="gifs/dog-dev.webp">
     <p>
-        Especialista em criação de magias e bruxarias não ensinadas em Hogwarts 🧙 para localizar e trucidar bugs do além infinito, assim como apagar incêndios de sistema que surgem do nada e desaparecem do mesmo modo.
+        Bacharel em Sistemas de Informação pela FIAP e cursando Arquitetura e Desenvolvimento Java na mesma, sou especialista em criação de magias e bruxarias não ensinadas em Hogwarts 🧙 para localizar e trucidar bugs do além infinito, assim como apagar incêndios de sistema que surgem do nada e desaparecem do mesmo modo.
     </p>
 </div>
 <div align="center">
