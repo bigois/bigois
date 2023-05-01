@@ -5,7 +5,10 @@
     </p>
     <img src="gifs/dog-dev.webp">
     <p>
-        Bacharel em Sistemas de Informação pela FIAP e cursando Arquitetura e Desenvolvimento Java na mesma, sou especialista em criação de magias e bruxarias não ensinadas em Hogwarts 🧙 para localizar e trucidar bugs do além infinito, assim como apagar incêndios de sistema que surgem do nada e desaparecem do mesmo modo.
+        Bacharel em Sistemas de Informação e pós-graduando em Arquitetura e Desenvolvimento Java pela FIAP 🎓
+    </p>
+    <p>
+        Especialista na criação de magias e bruxarias proibidas em Hogwarts para localizar e trucidar bugs do além infinito 🧙, mestre na arte da advinhação de requisitos ocultos na mente do cliente 🔮, e bombeiro da certificado pela FireRangers Academy de Ontario para apagar incêndios de software que surgem do nada e desaparecem da mesma forma 👨‍🚒
     </p>
 </div>
 <div align="center">
