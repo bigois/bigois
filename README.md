@@ -4,11 +4,11 @@
         O desenvolvedor ADVPL/TL++ mais rápido do Velho Oeste Protheus 🤠
     </p>
     <img src="gifs/dog-dev.webp">
-    <p>
-        Bacharel em Sistemas de Informação e pós-graduando em Arquitetura e Desenvolvimento Java pela FIAP 🎓
-    </p>
-    <p>
-        Especialista na criação de magias e bruxarias proibidas em Hogwarts para localizar e trucidar bugs do além infinito 🧙, mestre na arte da advinhação de requisitos ocultos na mente do cliente 🔮, e bombeiro da certificado pela FireRangers Academy de Ontario para apagar incêndios de software que surgem do nada e desaparecem da mesma forma 👨‍🚒
+    <p>Bacharel em Sistemas de Informação e pós-graduando em Arquitetura e Desenvolvimento Java pela FIAP 🎓</p>
+    <hr>
+    <p>Especialista na criação de magias e bruxarias proibidas em Hogwarts para localizar e trucidar bugs do além infinito 🧙</p>
+    <p>Mestre na arte da advinhação de requisitos ocultos na mente do cliente 🔮</p>
+    <p>E bombeiro da certificado pela FireRangers Academy de Ontario para apagar incêndios de software que surgem do nada e desaparecem da mesma forma 👨‍🚒</p>
     </p>
 </div>
 <div align="center">
