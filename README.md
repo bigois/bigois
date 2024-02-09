@@ -3,6 +3,11 @@
     <p title="Sim! É isso mesmo o que você está lendo 😂">
         O desenvolvedor ADVPL/TL++ mais rápido do Velho Oeste Protheus 🤠
     </p>
+    <div align="center">
+        <a href="https://wakatime.com/@469f941f-3a88-41c9-a685-a3cd93a14dff">
+            <img src="https://wakatime.com/badge/user/469f941f-3a88-41c9-a685-a3cd93a14dff.svg" alt="Total time coded since Apr 13 2021" />
+        </a>
+    </div>
     <img src="gifs/dog-dev.webp">
     <p>Bacharel em Sistemas de Informação e pós-graduando em Arquitetura e Desenvolvimento Java pela FIAP 🎓</p>
     <hr>
@@ -29,11 +34,6 @@
     </a>
     <a href="https://pt.stackoverflow.com/users/78805/guilherme-bigois" target="_blank">
         <img title="Veja minhas respostas e classificação incrível Stack Overflow 🤓" width="111px" height="28px" src="badges\stackoverflow.svg">
-    </a>
-</div>
-<div align="center">
-    <a href="https://wakatime.com/@469f941f-3a88-41c9-a685-a3cd93a14dff">
-        <img src="https://wakatime.com/badge/user/469f941f-3a88-41c9-a685-a3cd93a14dff.svg" alt="Total time coded since Apr 13 2021" />
     </a>
 </div>
 <h2 align="center">Tecnologias que eu mexo (ou já mexi) 👨‍💻</h2>
