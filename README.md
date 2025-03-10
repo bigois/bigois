@@ -23,13 +23,13 @@
     <a href="https://devforum.totvs.com.br/users/1300/guilherme-bigois" target="_blank">
         <img title="Veja minhas respostas e classificação na comunidade TOTVS DevForum 🤓" width="111px" height="28px" src="badges\totvs.svg">
     </a>
-    <a href="https://bigois.com" target="_blank">
-        <img title="Acesse meu blog para ver minhas postagens 📰" width="111px" height="28px" src="badges\website.svg">
+    <a href="https://www.youtube.com/@organacode" target="_blank">
+        <img title="Acesse meu canal do YouTube 📰" width="111px" height="28px" src="badges\website.svg">
     </a>
     <a href="https://api.whatsapp.com/send?phone=5511954226844" target="_blank">
         <img title="Precisa fazer alguma pergunta pessoal? Me chama no WhatApp! 📳" src="badges\whatsapp.svg">
     </a>
-    <a href="mailto:guilhermebigois@outlook.com" target="_blank">
+    <a href="mailto:guilherme.bigois@organacode.com.br" target="_blank">
         <img title="Quer contratar meus serviços? Me manda um e-mail aí! 📨" width="111px" height="28px" src="badges/email.svg">
     </a>
     <a href="https://pt.stackoverflow.com/users/78805/guilherme-bigois" target="_blank">
