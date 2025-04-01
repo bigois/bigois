@@ -2,6 +2,8 @@
 <div align="center">
     <p title="Sim! É isso mesmo o que você está lendo 😂">
         O desenvolvedor ADVPL/TL++ mais rápido do Velho Oeste Protheus 🤠
+        <br>
+        E agora também <strong>desenvolvedor Java</strong> em Transição! ☕ (se Deus quiser!)
     </p>
     <div align="center">
         <a href="https://wakatime.com/@469f941f-3a88-41c9-a685-a3cd93a14dff">
@@ -52,6 +54,7 @@
         <img title="Selenium" width="40px" height="40px" src="images/code/selenium.svg">
         <img title="NodeJS" width="40px" height="40px" src="images/code/nodejs.svg">
         <img title="Apache NiFi" width="40px" height="40px" src="images/code/nifi.svg">
+        <img title="R" width="40px" height="40px" src="images/code/r.svg">
     </details>
     <details>
         <summary>Mobaiou (mobile)</summary>
@@ -69,6 +72,7 @@
         <img title="Visual Studio" width="40px" height="40px" src="images/ide/visual-studio.svg">
         <img title="Arduino" width="40px" height="40px" src="images/ide/arduino.svg">
         <img title="IntelliJ" width="40px" height="40px" src="images/ide/intellij.svg">
+        <img title="POSIT/RStudio" width="40px" height="40px" src="images/ide/posit-rstudio.svg">
     </details>
     <details>
         <summary>Coisas que o estagiário desliga sem querer (infraestrutura)</summary>
