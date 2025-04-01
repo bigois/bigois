@@ -106,7 +106,9 @@
         <summary>Aquilo que eu não soube classificar (demais tecnologias)</summary>
         <img title="Postman" width="40px" height="40px" src="images/etc/postman.svg">
         <img title="Adobe Illustrator" width="40px" height="40px" src="images/etc/illustrator.svg">
+        <img title="Adobe Premiere Pro" width="40px" height="40px" src="images/etc/premiere-pro.svg">
         <img title="Microsoft Office" width="40px" height="40px" src="images/etc/office.svg">
+        <img title="OBS Studio" width="40px" height="40px" src="images/etc/obs-studio.svg">
         <img title="Power BI" width="40px" height="40px" src="images/etc/pbi.png">
     </details>
 <div>
