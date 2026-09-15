@@ -28,6 +28,9 @@
     <a href="https://www.youtube.com/@organacode" target="_blank">
         <img title="Acesse meu canal do YouTube 📰" src="badges\youtube.svg">
     </a>
+    <a href="https://bigois.medium.com" target="_blank">
+        <img title="Leia meus artigos no Medium ✍️" src="badges\medium.svg">
+    </a>
     <a href="https://api.whatsapp.com/send?phone=5511954226844" target="_blank">
         <img title="Precisa fazer alguma pergunta pessoal? Me chama no WhatApp! 📳" src="badges\whatsapp.svg">
     </a>
