@@ -41,10 +41,20 @@
         <summary>Core development (front-end and back-end)</summary>
         <img title="ADVPL/TL++" width="40px" height="40px" src="images/code/totvs.svg">
         <img title="Java" width="40px" height="40px" src="images/code/java.svg">
+        <img title="Spring Boot & Spring Data JPA" width="40px" height="40px" src="images/code/springboot.svg">
+        <img title="Maven" width="40px" height="40px" src="images/code/maven.svg">
+        <img title="Gradle" width="40px" height="40px" src="images/code/gradle.svg">
+        <img title="JUnit 5" width="40px" height="40px" src="images/code/junit5.svg">
         <img title="Python" width="40px" height="40px" src="images/code/python.svg">
         <img title="HTML5" width="40px" height="40px" src="images/code/html.svg">
         <img title="CSS3" width="40px" height="40px" src="images/code/css.svg">
         <img title="JavaScript" width="40px" height="40px" src="images/code/javascript.svg">
+        <img title="TypeScript" width="40px" height="40px" src="images/code/typescript.svg">
+        <img title="React" width="40px" height="40px" src="images/code/react.svg">
+        <img title="Express" width="40px" height="40px" src="images/code/express.svg">
+        <img title="MongoDB" width="40px" height="40px" src="images/code/mongodb.svg">
+        <img title="Swagger / OpenAPI" width="40px" height="40px" src="images/code/swagger.svg">
+        <img title="JSON Web Token (JWT)" width="40px" height="40px" src="images/code/jwt.svg">
         <img title="PL/SQL" width="40px" height="40px" src="images/code/plsql.webp">
         <img title="WordPress" width="40px" height="40px" src="images/code/wordpress.svg">
         <img title="Flask" width="40px" height="40px" src="images/code/flask.svg">
