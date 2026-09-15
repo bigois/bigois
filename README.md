@@ -34,9 +34,6 @@
     <a href="mailto:guilherme.bigois@organacode.com.br" target="_blank">
         <img title="Quer contratar meus serviços? Me manda um e-mail aí! 📨" width="111px" height="28px" src="badges/email.svg">
     </a>
-    <a href="https://pt.stackoverflow.com/users/78805/guilherme-bigois" target="_blank">
-        <img title="Veja minhas respostas e classificação incrível Stack Overflow 🤓" width="111px" height="28px" src="badges\stackoverflow.svg">
-    </a>
 </div>
 <h2 align="center">Tecnologias que eu mexo (ou já mexi) 👨‍💻</h2>
 <div align="center">
