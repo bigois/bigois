@@ -112,7 +112,3 @@
         <img title="Power BI" width="40px" height="40px" src="images/etc/pbi.png">
     </details>
 <div>
-
-## License
-
-This project is licensed under the [MIT License](https://github.com/bigois/bigois/blob/main/LICENSE).
