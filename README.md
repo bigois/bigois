@@ -22,9 +22,6 @@
     <a href="https://linkedin.com/in/bigois" target="_blank">
         <img title="Me adiciona lá nas suas conexões 😉" src="badges\linkedin.svg">
     </a>
-    <a href="https://devforum.totvs.com.br/users/1300/guilherme-bigois" target="_blank">
-        <img title="Veja minhas respostas e classificação na comunidade TOTVS DevForum 🤓" width="111px" height="28px" src="badges\totvs.svg">
-    </a>
     <a href="https://www.youtube.com/@organacode" target="_blank">
         <img title="Acesse meu canal do YouTube 📰" src="badges\youtube.svg">
     </a>
