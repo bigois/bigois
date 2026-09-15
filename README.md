@@ -26,7 +26,7 @@
         <img title="Veja minhas respostas e classificação na comunidade TOTVS DevForum 🤓" width="111px" height="28px" src="badges\totvs.svg">
     </a>
     <a href="https://www.youtube.com/@organacode" target="_blank">
-        <img title="Acesse meu canal do YouTube 📰" width="111px" height="28px" src="badges\website.svg">
+        <img title="Acesse meu canal do YouTube 📰" width="111px" height="28px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
     </a>
     <a href="https://api.whatsapp.com/send?phone=5511954226844" target="_blank">
         <img title="Precisa fazer alguma pergunta pessoal? Me chama no WhatApp! 📳" src="badges\whatsapp.svg">
