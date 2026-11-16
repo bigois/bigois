@@ -34,6 +34,9 @@
     <a href="mailto:guilherme.bigois@organacode.com.br" target="_blank">
         <img title="Want to work together? Send me an email! 📨" width="111px" height="28px" src="badges/email.svg">
     </a>
+    <a href="https://calendly.com/bigois/book-a-call" target="_blank">
+        <img title="Book a call with me" alt="Book a call" width="150px" height="28px" src="badges/calendly.svg">
+    </a>
 </div>
 <h2 align="center">Technologies I use (or have used) 👨‍💻</h2>
 <div align="center">
