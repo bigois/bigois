@@ -71,7 +71,7 @@
         <img title="Appium" width="40px" height="40px" src="images/mobile/appium.svg">
     </details>
     <details>
-        <summary>Where the magic happens (IDEs)</summary>
+        <summary>Where the magic happens (IDEs + AI)</summary>
         <img title="VS Code" width="40px" height="40px" src="images/ide/vscode.svg">
         <img title="PyCharm" width="40px" height="40px" src="images/ide/pycharm.svg">
         <img title="Eclipse" width="40px" height="40px" src="images/ide/eclipse.svg">
@@ -80,6 +80,10 @@
         <img title="Arduino" width="40px" height="40px" src="images/ide/arduino.svg">
         <img title="IntelliJ" width="40px" height="40px" src="images/ide/intellij.svg">
         <img title="POSIT/RStudio" width="40px" height="40px" src="images/ide/posit-rstudio.svg">
+        <img title="Claude Code" alt="Claude Code" width="40px" height="40px" src="images/ide/claude-code.svg">
+        <img title="Codex" alt="Codex" width="40px" height="40px" src="images/ide/codex.svg">
+        <img title="Ollama" alt="Ollama" width="40px" height="40px" src="images/ide/ollama.svg">
+        <img title="Google Antigravity" alt="Google Antigravity" width="40px" height="40px" src="images/ide/antigravity.svg">
     </details>
     <details>
         <summary>Things the intern accidentally turns off (infrastructure)</summary>
